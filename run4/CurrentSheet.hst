@@ -1,0 +1,16 @@
+# Athena++ history data
+# [1]=time     [2]=dt       [3]=mass     [4]=1-mom    [5]=2-mom    [6]=3-mom    [7]=1-KE     [8]=2-KE     [9]=3-KE     [10]=tot-E   [11]=1-ME    [12]=2-ME    [13]=3-ME    
+  0.00000e+00  6.85994e-04  2.21809e-01  0.00000e+00  0.00000e+00  0.00000e+00  0.00000e+00  0.00000e+00  0.00000e+00         -nan         -nan         -nan  0.00000e+00
+  1.02044e-02  6.79230e-04  1.64336e-01         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan
+  2.04023e-02  6.80295e-04  1.24549e-01         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan
+  3.06300e-02  6.85994e-04  8.39984e-02         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan
+  4.02340e-02  6.85994e-04  4.68623e-02         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan
+  5.05239e-02  6.85994e-04  7.07355e-03         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan
+  6.21858e-02  1.09759e-02  3.46945e-18         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan
+  7.31617e-02  2.19518e-02  3.46945e-18         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan
+  9.51135e-02  4.39036e-02  3.46945e-18         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan
+  1.39017e-01  8.78073e-02  3.46945e-18         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan
+  2.26824e-01  1.75615e-01  3.46945e-18         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan
+  4.02439e-01  3.51229e-01  3.46945e-18         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan
+  7.53668e-01  2.46332e-01  3.46945e-18         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan
+  1.00000e+00  4.92664e-01  3.46945e-18         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan         -nan

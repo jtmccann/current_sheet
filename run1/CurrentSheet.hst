@@ -1,0 +1,10 @@
+# Athena++ history data
+# [1]=time     [2]=dt       [3]=mass     [4]=1-mom    [5]=2-mom    [6]=3-mom    [7]=1-KE     [8]=2-KE     [9]=3-KE     [10]=tot-E   [11]=1-ME    [12]=2-ME    [13]=3-ME    
+  0.00000e+00  3.11175e-08  3.00996e-01  0.00000e+00  0.00000e+00  0.00000e+00  0.00000e+00  0.00000e+00  0.00000e+00         -nan         -nan         -nan  0.00000e+00
+  1.63145e-02  1.63145e-02  3.46945e-18         -nan         -nan         -nan         -nan         -nan         -nan          nan         -nan         -nan          nan
+  3.26291e-02  3.26291e-02  3.46945e-18         -nan         -nan         -nan         -nan         -nan         -nan          nan         -nan         -nan          nan
+  6.52581e-02  6.52582e-02  3.46945e-18         -nan         -nan         -nan         -nan         -nan         -nan          nan         -nan         -nan          nan
+  1.30516e-01  1.30516e-01  3.46945e-18         -nan         -nan         -nan         -nan         -nan         -nan          nan         -nan         -nan          nan
+  2.61033e-01  2.61033e-01  3.46945e-18         -nan         -nan         -nan         -nan         -nan         -nan          nan         -nan         -nan          nan
+  5.22065e-01  4.77935e-01  3.46945e-18         -nan         -nan         -nan         -nan         -nan         -nan          nan         -nan         -nan          nan
+  1.00000e+00  9.55869e-01  3.46945e-18         -nan         -nan         -nan         -nan         -nan         -nan          nan         -nan         -nan          nan
